@@ -2,7 +2,7 @@
   "name": "quasar-app-extension-sys-env",
   "version": "2.0.4",
   "description": "Loads environment variables from the system and makes them available through process.env. Works best for building on CI/CD environments",
-  "author": "marcorivm <marcorivm@gmail.com>",
+  "author": "Alaa Rihan <alaa.addeen@gmail.com>",
   "license": "MIT",
   "main": "src/index.js",
   "scripts": {
@@ -10,9 +10,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/marcorivm/quasar-app-extension-system-environment-variables"
+    "url": "https://github.com/alaarihan/quasar-app-extension-sys-env"
   },
-  "bugs": "https://github.com/marcorivm/quasar-app-extension-system-environment-variables/issues",
+  "bugs": "https://github.com/alaarihan/quasar-app-extension-sys-env/issues",
   "homepage": "",
   "engines": {
     "node": ">= 8.9.0",
